@@ -19,9 +19,8 @@ p {
 }
 .preview-container {
   display: flex;
-
   align-items: center;
-  max-width: 70%;
+  max-width: 50%;
 }
 /* .vehicle-container {
   display: flex;
