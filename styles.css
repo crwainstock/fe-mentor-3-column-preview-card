@@ -2,9 +2,30 @@ body {
   background-color: #f2f2f2;
 }
 
+h3 {
+  font-family: "Big Shoulders Display", cursive;
+  text-transform: uppercase;
+}
+
+p {
+  font-family: "Lexend Deca", sans-serif;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
 .preview-container {
   display: flex;
+
+  align-items: center;
+  max-width: 70%;
 }
+/* .vehicle-container {
+  display: flex;
+} */
 
 .attribution {
   display: block;
@@ -13,4 +34,5 @@ body {
   padding-bottom: 0.6rem;
   background-color: #fffefe;
   text-align: center;
+  font-family: "Lexend Deca", sans-serif;
 }
