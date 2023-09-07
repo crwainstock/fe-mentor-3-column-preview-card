@@ -1,3 +1,7 @@
+.preview-container {
+  display: flex;
+}
+
 .attribution {
   display: block;
   margin: auto;
