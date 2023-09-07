@@ -4,16 +4,19 @@ body {
 
 h3 {
   font-family: "Big Shoulders Display", cursive;
+  color: hsla(0, 0%, 100%, 0.75);
   text-transform: uppercase;
 }
 
 p {
   font-family: "Lexend Deca", sans-serif;
+  color: hsla(0, 0%, 100%, 0.75);
 }
 .container {
   display: flex;
   flex-direction: row;
   justify-content: center;
+  /* align-items: center; */
   height: 100vh;
 }
 .preview-container {
@@ -22,9 +25,13 @@ p {
   max-width: 53%;
   max-height: 63%;
 }
+/* .vehicle-container {
+    border-radius: 8px 0 0 8px;
+} */
 
 #sedan {
   background-color: hsl(31, 77%, 52%);
+  border-radius: 8px 0 0 8px;
 }
 
 #SUV {
@@ -33,6 +40,7 @@ p {
 
 #luxury {
   background-color: hsl(179, 100%, 13%);
+  border-radius: 0 8px 8px 0;
 }
 
 .attribution {
