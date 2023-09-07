@@ -14,17 +14,26 @@ p {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  align-items: center;
   height: 100vh;
 }
 .preview-container {
   display: flex;
-  align-items: center;
-  max-width: 50%;
+  margin-top: 20vh;
+  max-width: 53%;
+  max-height: 63%;
 }
-/* .vehicle-container {
-  display: flex;
-} */
+
+#sedan {
+  background-color: hsl(31, 77%, 52%);
+}
+
+#SUV {
+  background-color: hsl(184, 100%, 22%);
+}
+
+#luxury {
+  background-color: hsl(179, 100%, 13%);
+}
 
 .attribution {
   display: block;
