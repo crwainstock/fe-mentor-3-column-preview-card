@@ -25,9 +25,9 @@ p {
   max-width: 53%;
   max-height: 63%;
 }
-/* .vehicle-container {
-    border-radius: 8px 0 0 8px;
-} */
+.vehicle-container {
+  padding: 2rem;
+}
 
 #sedan {
   background-color: hsl(31, 77%, 52%);
