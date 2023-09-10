@@ -16,4 +16,14 @@ I deployed the component with Netlify, though, so check that out [here](https://
 
 ## 🤔 Reflection
 
+One of the most challenging aspects of this type of build is getting things to match exactly to the brief. I find this type of project to be sort of like an inverted pyramid. At first, I analyze the shape, composition of the image in the brief, imagine how it's organized, and start building. The changes at this stage are quite large, like adding all of the elements within the component.
+
+As the build continues, though, the work becomes more and more tedious. Each change to the CSS or HTML is rather small. Sometimes SUPER small, like .05em. At the end of the build, the changes I'm making are really small.
+
+Another challenge I'm facing with this type of build is how to approach the build: mobile or laptop first. I understand the rationale behind mobile-first designs. But I'm curious whether people start with mobile first when building. When using vanilla CSS, for example, is the default CSS for mobile? Or larger screens?
+
+This is my second build with Front End Mentor, and so far, I've started building with larger screens and the moved on to adjusting the styling to match mobile requirements. Perhaps in the next project I'll approach it the other way around.
+
+Since I'm using vanilla CSS, I've been using media queries to achieve different styling for mobile and larger screens. So far, it's been adequate, I think, but maybe there's a better way. Or I haven't found the best way to make changes in styling from screen size more seamless.
+
 ## 👀 Demo & Live Version
