@@ -94,8 +94,7 @@ button {
 /* Smaller screens */
 
 @media screen and (max-width: 480px) {
-  .container {
+  .preview-container {
     flex-direction: column;
   }
-  /* Not working yet. Need to get columns to go into one column in mobile. */
 }
