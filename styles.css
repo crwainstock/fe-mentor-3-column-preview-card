@@ -27,6 +27,7 @@ p {
 .preview-container {
   display: flex;
   margin-top: 20vh;
+  margin-bottom: 15vh;
   max-width: 53%;
   max-height: 63%;
 }
@@ -97,8 +98,6 @@ button {
 }
 
 .attribution {
-  display: block;
-  margin: auto;
   padding-top: 1rem;
   padding-bottom: 0.6rem;
   background-color: #fffefe;
