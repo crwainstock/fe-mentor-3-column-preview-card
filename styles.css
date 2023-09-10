@@ -97,4 +97,13 @@ button {
   .preview-container {
     flex-direction: column;
   }
+  #sedan {
+    border-radius: 8px;
+  }
+  #SUV {
+    border-radius: 8px;
+  }
+  #luxury {
+    border-radius: 8px;
+  }
 }
