@@ -48,6 +48,11 @@ img {
   border-color: hsla(0, 0%, 100%);
   border-style: solid;
 }
+#sedan button:hover {
+  color: hsla(0, 0%, 100%);
+  background-color: hsl(31, 77%, 52%);
+  border-color: hsla(0, 0%, 100%);
+}
 
 #SUV {
   background-color: hsl(184, 100%, 22%);
@@ -57,6 +62,11 @@ img {
   background-color: hsla(0, 0%, 100%);
   border-color: hsla(0, 0%, 100%);
   border-style: solid;
+}
+#SUV button:hover {
+  color: hsla(0, 0%, 100%);
+  background-color: hsl(184, 100%, 22%);
+  border-color: hsla(0, 0%, 100%);
 }
 
 #luxury {
@@ -68,6 +78,11 @@ img {
   background-color: hsla(0, 0%, 100%);
   border-color: hsla(0, 0%, 100%);
   border-style: solid;
+}
+#luxury button:hover {
+  color: hsla(0, 0%, 100%);
+  background-color: hsl(179, 100%, 13%);
+  border-color: hsla(0, 0%, 100%);
 }
 
 button {
