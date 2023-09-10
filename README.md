@@ -14,6 +14,8 @@ This component was built with HTML and vanilla CSS. No dependencies! 🥳 I also
 
 I deployed the component with Netlify, though, so check that out [here](https://gleaming-starburst-bd6e26.netlify.app/).
 
+I used [ezgif.com](https://ezgif.com/video-to-gif) to convert videos to gifs to show here.
+
 ## 🤔 Reflection
 
 One of the most challenging aspects of this type of build is getting things to match exactly to the brief. I find this type of project to be sort of like an inverted pyramid. At first, I analyze the shape, composition of the image in the brief, imagine how it's organized, and start building. The changes at this stage are quite large, like adding all of the elements within the component.
@@ -27,3 +29,15 @@ This is my second build with Front End Mentor, and so far, I've started building
 Since I'm using vanilla CSS, I've been using media queries to achieve different styling for mobile and larger screens. So far, it's been adequate, I think, but maybe there's a better way. Or I haven't found the best way to make changes in styling from screen size more seamless.
 
 ## 👀 Demo & Live Version
+
+Check out the live version of this component here.
+
+And here are a couple gifs comparing my final build to the images in the brief.
+
+### Larger Screens
+
+![a gif showing larger screen version](./larger%20screens%20compare.gif)
+
+### Mobile
+
+![a gif showing mobile version](./mobile%20compare.gif)
