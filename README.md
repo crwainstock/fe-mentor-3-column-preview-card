@@ -31,6 +31,8 @@ Since I'm using vanilla CSS, I've been using media queries to achieve different 
 I'm not sure what's up with the Front End Mentor preview. When my submission was made, a preview is generated showing the my solution compared to the image from the brief. It looks like this:
 ![front end mentor preview](./fe%20mentor%20preview.gif)
 
+But, that's not what the live version or my local version looks like. I'm not sure what's going on with that. 🤔
+
 ## 👀 Demo & Live Version
 
 Check out the live version of this component [here](https://gleaming-starburst-bd6e26.netlify.app/).
