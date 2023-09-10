@@ -28,6 +28,9 @@ This is my second build with Front End Mentor, and so far, I've started building
 
 Since I'm using vanilla CSS, I've been using media queries to achieve different styling for mobile and larger screens. So far, it's been adequate, I think, but maybe there's a better way. Or I haven't found the best way to make changes in styling from screen size more seamless.
 
+I'm not sure what's up with the Front End Mentor preview. When my submission was made, a preview is generated showing the my solution compared to the image from the brief. It looks like this:
+![front end mentor preview](./fe%20mentor%20preview.gif)
+
 ## 👀 Demo & Live Version
 
 Check out the live version of this component [here](https://gleaming-starburst-bd6e26.netlify.app/).
