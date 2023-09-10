@@ -15,7 +15,7 @@ p {
   font-family: "Lexend Deca", sans-serif;
   color: hsla(0, 0%, 100%, 0.75);
   font-size: 0.65em;
-  line-height: 2em;
+  line-height: 1.75em;
 }
 .container {
   display: flex;
@@ -42,23 +42,43 @@ img {
   background-color: hsl(31, 77%, 52%);
   border-radius: 8px 0 0 8px;
 }
+#sedan button {
+  color: hsl(31, 77%, 52%);
+  background-color: hsla(0, 0%, 100%);
+  border-color: hsla(0, 0%, 100%);
+  border-style: solid;
+}
 
 #SUV {
   background-color: hsl(184, 100%, 22%);
+}
+#SUV button {
+  color: hsl(184, 100%, 22%);
+  background-color: hsla(0, 0%, 100%);
+  border-color: hsla(0, 0%, 100%);
+  border-style: solid;
 }
 
 #luxury {
   background-color: hsl(179, 100%, 13%);
   border-radius: 0 8px 8px 0;
 }
+#luxury button {
+  color: hsl(179, 100%, 13%);
+  background-color: hsla(0, 0%, 100%);
+  border-color: hsla(0, 0%, 100%);
+  border-style: solid;
+}
 
 button {
-  margin-top: 2.5rem;
-  padding-left: 1rem;
-  padding-right: 1rem;
+  margin-top: 3.25rem;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
-  border-radius: 20px;
+  border-radius: 30px;
+  font-size: 0.7em;
+  font-weight: bold;
 }
 
 .attribution {
