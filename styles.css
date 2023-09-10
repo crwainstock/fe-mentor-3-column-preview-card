@@ -96,8 +96,12 @@ button {
 @media screen and (max-width: 480px) {
   .preview-container {
     flex-direction: column;
-    max-width: 70%;
+    max-width: 58%;
+    margin-top: 15vh;
   }
+  /* .vehicle-container {
+    margin-top: 1rem;
+  } */
   #sedan {
     border-radius: 8px;
   }
@@ -106,5 +110,8 @@ button {
   }
   #luxury {
     border-radius: 8px;
+  }
+  button {
+    margin-top: 0.75rem;
   }
 }
