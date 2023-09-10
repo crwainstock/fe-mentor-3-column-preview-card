@@ -30,7 +30,7 @@ Since I'm using vanilla CSS, I've been using media queries to achieve different 
 
 ## 👀 Demo & Live Version
 
-Check out the live version of this component here.
+Check out the live version of this component [here](https://gleaming-starburst-bd6e26.netlify.app/).
 
 And here are a couple gifs comparing my final build to the images in the brief.
 
